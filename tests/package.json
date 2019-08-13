@@ -1,0 +1,7 @@
+{
+    "name": "mon-app",
+    "version": "1.0",
+    "dependencies": {
+        "markdown": "0.5"
+    }
+}

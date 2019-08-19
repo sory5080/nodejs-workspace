@@ -1,0 +1,16 @@
+{
+    "name": "node-workspace",
+    "description": "Espace de travail dédié à NodeJS",
+    "author": {
+        "name": "Ibrahima sory TRAORE",
+        "email": "ibrahima982011@gmail.com"
+    },
+    "version": "0.1.0",
+    "dependencies": {
+        "ejs": "^2.6.2",
+        "express": "^4.17.1",
+        "socket.io": "^2.2.0",
+        "cookie-session": "~1.3.3",
+        "body-parser": "~1.19.0"
+    }
+}
